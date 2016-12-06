@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e410444c-c18d-49d6-9395-efb41e706cae" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/task_2.iml" afterPath="$PROJECT_DIR$/.idea/task_2.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hello_a.py" afterPath="$PROJECT_DIR$/hello_a.py" />
     </list>
     <ignored path="task_2.iws" />
     <ignored path=".idea/workspace.xml" />
